@@ -1,2 +1,8 @@
-# Adding config.py file.
+# Ignoring API keys configuration file
 api_keys.py
+
+# Ignoring Python compiled files / directories
+__pycache__/
+
+# Ignoring Mac OS folder attributes file
+.DS_Store
